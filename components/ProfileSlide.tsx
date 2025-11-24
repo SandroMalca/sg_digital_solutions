@@ -42,7 +42,7 @@ const ProfileSlide: React.FC = () => {
               En producción, aquí iría la foto 'foto_pintaLaptop' real.
             */}
             <img 
-              src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1000&auto=format&fit=crop" 
+              src="https://drive.google.com/file/d/1-KvuJ0D-1JAMmOXz0_oqJ_Chvlf_hIhb/view?usp=drive_link&w=1000&auto=format&fit=crop" 
               alt="Sandro Malca trabajando en laptop" 
               className="w-full h-full object-cover"
             />
