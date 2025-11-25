@@ -41,11 +41,8 @@ const ProfileSlide: React.FC = () => {
               NOTA: Usamos una imagen de placeholder profesional tecnológica. 
               En producción, aquí iría la foto 'foto_pintaLaptop' real.
             */}
-            <img 
-              src="https://drive.google.com/file/d/1-KvuJ0D-1JAMmOXz0_oqJ_Chvlf_hIhb/view?usp=drive_link&w=1000&auto=format&fit=crop" 
-              alt="Sandro Malca trabajando en laptop" 
-              className="w-full h-full object-cover"
-            />
+                           
+            <img src='https://i.postimg.cc/rm8WJVNC/foto-pinta-Laptop.png' alt='foto-pinta-Laptop' className="w-full h-full object-cover"/>
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
             <div className="absolute bottom-4 left-4">
               <p className="text-white font-bold text-lg">Ing. Sandro Malca</p>
